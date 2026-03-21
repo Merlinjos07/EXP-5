@@ -42,8 +42,14 @@ PRECAUTIONS:
 
 
 
+<img width="622" height="419" alt="image" src="https://github.com/user-attachments/assets/c978e0a7-ab32-4a4b-8c1a-22eb081685ef" />
 
-[ex 5.pdf](https://github.com/user-attachments/files/26059660/ex.5.pdf)
+
+<img width="671" height="443" alt="image" src="https://github.com/user-attachments/assets/4e11eb07-feb6-4f3c-9154-66c155b9792f" />
+
+<img width="673" height="438" alt="image" src="https://github.com/user-attachments/assets/0737c9cb-88b3-4887-a89c-ca06a0ec1c21" />
+
+
 
 
 RESULT:
